@@ -1,0 +1,12 @@
+name: hKitPvP
+version: 1.0.0
+main: me.happy.kitpvp.KitPvP
+author: HappyTNTguy
+description: A Nice KitPvP Plugin!
+commands:
+  bounty:
+    description: Put a bounty on a player!
+  tokens:
+    description: Controls tokens
+  color:
+    description: Changes the player's color in tablist and in game.

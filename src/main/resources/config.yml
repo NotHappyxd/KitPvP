@@ -1,0 +1,16 @@
+#_     _  ___ _   _____        _____
+#| |   | |/ (_) | |  __ \      |  __ \
+#| |__ | ' / _| |_| |__) |_   _| |__) |
+#| '_ \|  < | | __|  ___/\ \ / /  ___/
+#| | | | . \| | |_| |     \ V /| |
+#|_| |_|_|\_\_|\__|_|      \_/ |_|
+#
+license: 'Contact Happy to recieve your license!'
+server-name: 'Example PvP'
+primary-color: AQUA
+secondary-color: WHITE
+teritary-color: GRAY
+rank:
+  #PUT THE RANK AS IT IS ON PEX AND THE RANK IS CASE-SENSITIVE. EXAMPLE, THE PEX GROUP, Dev, would be Dev, not dev
+  default: '&e'
+  Owner: '&4'
